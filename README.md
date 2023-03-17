@@ -2,10 +2,8 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/bipin-pachhai/)
 
 
-Hey there 👋
-I am a Software Engineer. A team player with an entrepreneurial spirit.
-
-Want to know more about me? [Check out my website.](https://bipinpachhai.com/)
+👋
+CS '23. Software Engineer. A team player with an entrepreneurial spirit.
 
 ## 📌 Pinned Repositories
 <br>
