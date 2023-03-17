@@ -9,19 +9,26 @@ Want to know more about me? [Check out my website.](https://bipinpachhai.com/)
 
 ## 📌 Pinned Repositories
 <br>
+
 <a href="https://github.com/bipin-pachhai/tech_graph">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bipin-pachhai&repo=tech_graph&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
 <br>
+
 <a href="https://github.com/bipin-pachhai/surrounding_detector">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bipin-pachhai&repo=surrounding_detector&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
 <br>
 ## &#x1f4c8; GitHub Stats
 <br>
+
 <a href="https://github.com/bipin-pachhai">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?user-name=bipin-pachhai&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bipin-pachhai&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+</a>
+<br>
 <a href="https://github.com/bipin-pachhai">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=bipin-pachhai&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" />
 </a>
