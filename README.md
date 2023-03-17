@@ -20,7 +20,7 @@ Want to know more about me? [Check out my website.](https://bipinpachhai.com/)
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=bipin-pachhai&repo=surrounding_detector&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<br>
+
 ## &#x1f4c8; GitHub Stats
 <br>
 
