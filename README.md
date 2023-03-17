@@ -5,7 +5,7 @@
 <br>
  CS '23. Software Engineer. A team player with an entrepreneurial spirit.
 
-## 📌 Pinned Repositories
+# 📌 Pinned Repositories
 <br>
 
 <a href="https://github.com/bipin-pachhai/tech_graph">
@@ -19,7 +19,7 @@
 </a>
 
 
-## &#x1f4c8; GitHub Stats
+# &#x1f4c8; GitHub Stats
 <br>
 
 <a href="https://github.com/bipin-pachhai">
